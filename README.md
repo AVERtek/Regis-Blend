@@ -1,2 +1,1 @@
-# Regis-Blend
-Regis Home + Tricks
+# Regis Blend Demo
